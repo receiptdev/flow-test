@@ -2,3 +2,7 @@ Master
 
 branch receipt/0.0.1
 branch 0.0.2
+
+
+
+trash 0.0.2
